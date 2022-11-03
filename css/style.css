@@ -5,3 +5,25 @@
 .navbar-nav{
    margin-left: auto;
 }
+#form-section{
+   background: rgb(200, 198, 198);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 40vh;
+   text-align: center;
+}
+#features{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 40vh;
+   text-align: center;
+}
+#how{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 40vh;
+   text-align: center;
+}
