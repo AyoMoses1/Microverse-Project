@@ -2,6 +2,9 @@
    width: 100px;
    height: 50px;
 }
+#header {
+   position: static;
+}
 .navbar-nav{
    margin-left: auto;
 }
